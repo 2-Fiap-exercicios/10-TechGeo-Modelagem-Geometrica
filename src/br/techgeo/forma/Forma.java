@@ -1,4 +1,5 @@
 package br.techgeo.forma;
 
-public class Forma {
+public abstract class Forma {
+
 }

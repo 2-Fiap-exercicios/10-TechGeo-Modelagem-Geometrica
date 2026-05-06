@@ -1,6 +1,6 @@
 package br.techgeo.Main;
-import br.techgeo.cilindro.Cilindro;
-import br.techgeo.circulo.Circulo;
+import br.techgeo.forma.Cilindro;
+import br.techgeo.forma.Circulo;
 import br.techgeo.ponto.Ponto;
 
 public class Main {
